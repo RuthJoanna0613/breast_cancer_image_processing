@@ -130,3 +130,8 @@ dmypy.json
 
 .env
 dataset
+
+# My files
+reading_material
+new_dataset
+preprocessed_dataset
