@@ -128,10 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.env
-dataset
-
 # My files
 reading_material
 new_dataset
 preprocessed_dataset
+.env
+CBIS-DDSM
+calc_dataset
+calc_preprocess_dataset
+
+
